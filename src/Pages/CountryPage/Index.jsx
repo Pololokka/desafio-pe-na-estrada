@@ -1,3 +1,5 @@
+import React from "react";
+
 import TextSection from "../../Components/TextSection/Index";
 import { Link } from "react-router-dom";
 
@@ -9,13 +11,15 @@ const CountryPage = ({ pageName, sectionTitle, sectionText, linkArray }) => {
       <TextSection sectionTitle={sectionTitle} sectionText={sectionText} />
       {linkArray?.map((element, index) => {
         return (
-          <Link
-            key={index}
-            className="subtitulo btn__geral"
-            to={element.linkPath}
-          >
-            {element.linkName}
-          </Link>
+          <React.Fragment key={index}>
+            <TextSection
+              sectionTitle={element.sectionTitle}
+              sectionText={element.sectionText}
+            />
+            <Link className="subtitulo btn__geral" to={element.linkPath}>
+              {element.linkName}
+            </Link>
+          </React.Fragment>
         );
       })}
     </main>

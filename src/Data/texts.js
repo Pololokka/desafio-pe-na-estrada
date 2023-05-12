@@ -25,3 +25,15 @@ export const franceAboutPage = [
   "Sua capital, Paris, a cidade da luz, tem um importante papel na Europa e é uma das mais populosas do continente. Museus, monumentos e praias são só alguns dos atrativos da França.",
   "Aprecie a arte de viver à francesa!",
 ];
+
+export const francePageParis = [
+  "Uma ida ao museu do Louvre, uma vista a conhecida Catedral de Notre Dame e um café da tarde no Le Relais de l´Entrecôte são algumas das possibilidades de passeios por Paris.",
+];
+
+export const francePageStrasbourg = [
+  "A Capital da Alsácia, Estrasburgo, é ainda mais bela no auge do inverno europeu. A cidade foi sede de acontecimentos históricos surpreendentes que trouxeram consequências positivas para os futuros visitantes",
+];
+
+export const francePageBordeaux = [
+  "A cidade de Bordéus - ou Bordeaux - se diferencia das demais por ser um destino mais noturno e badalado, perfeito para quem está de viagem com os amigos.",
+];
