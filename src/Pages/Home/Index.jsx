@@ -9,6 +9,8 @@ import {
 } from "../../Data/texts";
 
 const Home = () => {
+  document.title = "Pé na Estrada!";
+
   return (
     <main className="main__container">
       <h1 className="titulo titulo-hover">Teste</h1>
@@ -19,7 +21,7 @@ const Home = () => {
         sectionText={homeTextPlace1}
       />
       <Link className="subtitulo btn__geral" to="/">
-        Lugar 1
+        Conheça mais sobre a França!
       </Link>
 
       <TextSection
@@ -27,7 +29,7 @@ const Home = () => {
         sectionText={homeTextPlace2}
       />
       <Link className="subtitulo btn__geral" to="/">
-        Lugar 2
+        Conheça mais sobre os Estados-Unidos!
       </Link>
 
       <TextSection
@@ -35,7 +37,7 @@ const Home = () => {
         sectionText={homeTextPlace3}
       />
       <Link className="subtitulo btn__geral" to="/">
-        Lugar 3
+        Conheça mais sobre a Espanha!
       </Link>
     </main>
   );
