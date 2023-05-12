@@ -20,7 +20,7 @@ const Home = () => {
         sectionTitle="Título do Lugar 1"
         sectionText={homeTextPlace1}
       />
-      <Link className="subtitulo btn__geral" to="/">
+      <Link className="subtitulo btn__geral" to="/franca">
         Conheça mais sobre a França!
       </Link>
 

@@ -18,3 +18,10 @@ export const homeTextPlace3 = [
   "A espanha é o segundo maior país da Europa Ocidental e fica pertinho de países como Portugal, França, Andorra e Gibraltar. Isso quer dizer que quando estiver lá pode dar um pulinho nesses outros países. O país acolhe todo tipo de turistas dos mais aventureiros aos mais calmos. Com seus relevos montanhosos, belas praias e monumentos históricos é impossível não se apaixonar por sua história e cultura.",
   "Para conhecer a história do país visite seus inúmeros museus. O famoso Museu Guggenheim ou Museu do Prado em Madri. Não esqueça de deixar um dia reservado para conhecer o estádio do Barcelona, casa de um dos times mais famosos do mundo.",
 ];
+
+export const franceAboutPage = [
+  "Banhado pelo Oceano Atlântico e pelo Mar Mediterrâneo, com uma grande riqueza histórica e cultural, o país é o destino turístico mais popular do mundo. Sua economia está entre as cinco primeiras do mundo e o país está entre os três mais industrializados da Europa.",
+  "Se você é o tipo de pessoa que adora conhecer novas culinárias e uma grande variedade de vinhos, a França, localizada no oeste da Europa, é o lugar ideal para você.",
+  "Sua capital, Paris, a cidade da luz, tem um importante papel na Europa e é uma das mais populosas do continente. Museus, monumentos e praias são só alguns dos atrativos da França.",
+  "Aprecie a arte de viver à francesa!",
+];

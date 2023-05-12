@@ -5,15 +5,15 @@ import Nav from "./Components/Nav/Index";
 
 const navLinks = [
   {
-    name: "Lugar 1",
+    name: "França",
+    path: "/franca",
+  },
+  {
+    name: "Estados Unidos",
     path: "/",
   },
   {
-    name: "Lugar 2",
-    path: "/",
-  },
-  {
-    name: "Lugar 3",
+    name: "Espanha",
     path: "/",
   },
 ];
