@@ -9,7 +9,6 @@ import CityPage from "./Pages/CityPage/Index.jsx";
 
 import { franceAboutPage } from "./Data/texts.js";
 import { franceLinks } from "./Data/linkArrays.js";
-import { paris, bordeaux, strasbourg } from "./Data/textDetail.js";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -38,8 +37,7 @@ const router = createBrowserRouter([
         element: (
           <CityPage
             pageName="Pé Na Estrada - França"
-            sectionTitle="Sobre a França"
-            pageInfo={(paris, bordeaux, strasbourg)}
+            sectionTitle="Sobre Paris"
           />
         ),
       },

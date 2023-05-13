@@ -5,16 +5,13 @@ import TextSection from "../../Components/TextSection/Index";
 import { Link } from "react-router-dom";
 import { details } from "../../Data/textDetail";
 
-const CityPage = ({ pageName, sectionTitle, sectionText, pageInfo }) => {
+const CityPage = ({ pageName, sectionTitle, sectionText }) => {
   document.title = pageName;
   const { id } = useParams();
   const teste = details[id];
 
-  console.log(teste);
-
   return (
     <main className="main__container">
-      <p className="texto">isso é : {id}</p>
       <TextSection sectionTitle={sectionTitle} sectionText={sectionText} />
       {teste?.map((element, index) => {
         return (
