@@ -6,19 +6,19 @@ import {
 
 export const franceLinks = [
   {
-    linkPath: "/",
+    linkPath: "/franca/paris",
     linkName: "Conheça mais sobre Paris",
     sectionTitle: "Sobre Paris",
     sectionText: francePageParis,
   },
   {
-    linkPath: "/",
+    linkPath: "/franca/strasbourg",
     linkName: "Conheça mais sobre Strasbourg",
     sectionTitle: "Sobre Strasbourg",
     sectionText: francePageStrasbourg,
   },
   {
-    linkPath: "/",
+    linkPath: "/franca/bordeaux",
     linkName: "Conheça mais sobre Bordeaux",
     sectionTitle: "Sobre Bordeaux",
     sectionText: francePageBordeaux,

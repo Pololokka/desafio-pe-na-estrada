@@ -5,9 +5,11 @@ import "./index.css";
 
 import Home from "./Pages/Home/Index.jsx";
 import CountryPage from "./Pages/CountryPage/Index.jsx";
+import CityPage from "./Pages/CityPage/Index.jsx";
 
 import { franceAboutPage } from "./Data/texts.js";
 import { franceLinks } from "./Data/linkArrays.js";
+import { paris, bordeaux, strasbourg } from "./Data/textDetail.js";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -28,6 +30,16 @@ const router = createBrowserRouter([
             sectionTitle="Sobre a França"
             sectionText={franceAboutPage}
             linkArray={franceLinks}
+          />
+        ),
+      },
+      {
+        path: "/franca/:id",
+        element: (
+          <CityPage
+            pageName="Pé Na Estrada - França"
+            sectionTitle="Sobre a França"
+            pageInfo={(paris, bordeaux, strasbourg)}
           />
         ),
       },
