@@ -6,6 +6,7 @@ import "./index.css";
 import Home from "./Pages/Home/Index.jsx";
 import CountryPage from "./Pages/CountryPage/Index.jsx";
 import CityPage from "./Pages/CityPage/Index.jsx";
+import CityInfoPage from "./Pages/CityInfoPage/Index.jsx";
 
 import { franceAboutPage } from "./Data/texts.js";
 import { franceLinks } from "./Data/linkArrays.js";
@@ -40,6 +41,10 @@ const router = createBrowserRouter([
             sectionTitle="Sobre Paris"
           />
         ),
+      },
+      {
+        path: "/franca/:id/:id",
+        element: <CityInfoPage pageName="Pé Na Estrada - França" />,
       },
     ],
   },
