@@ -8,8 +8,8 @@ import CountryPage from "./Pages/CountryPage/Index.jsx";
 import CityPage from "./Pages/CityPage/Index.jsx";
 import CityInfoPage from "./Pages/CityInfoPage/Index.jsx";
 
-import { franceAboutPage } from "./Data/texts.js";
-import { franceLinks } from "./Data/linkArrays.js";
+import { franceAboutPage, euaAboutPage, spainAboutPage } from "./Data/texts.js";
+import { franceLinks, euaLinks, spainLinks } from "./Data/linkArrays.js";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -30,6 +30,28 @@ const router = createBrowserRouter([
             sectionTitle="Sobre a França"
             sectionText={franceAboutPage}
             linkArray={franceLinks}
+          />
+        ),
+      },
+      {
+        path: "/eua",
+        element: (
+          <CountryPage
+            pageName="Pé Na Estrada - Estados-Unidos"
+            sectionTitle="Sobre os Estados-Unidos"
+            sectionText={euaAboutPage}
+            linkArray={euaLinks}
+          />
+        ),
+      },
+      {
+        path: "/espanha",
+        element: (
+          <CountryPage
+            pageName="Pé Na Estrada - Espanha"
+            sectionTitle="Sobre a Espanha"
+            sectionText={spainAboutPage}
+            linkArray={spainLinks}
           />
         ),
       },

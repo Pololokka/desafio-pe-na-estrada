@@ -22,12 +22,12 @@ const Home = () => {
       </Link>
 
       <TextSection sectionTitle="Estados-Unidos" sectionText={homeTextPlace2} />
-      <Link className="subtitulo btn__geral" to="/">
+      <Link className="subtitulo btn__geral" to="/eua">
         Conheça mais sobre os Estados-Unidos!
       </Link>
 
       <TextSection sectionTitle="Espanha" sectionText={homeTextPlace3} />
-      <Link className="subtitulo btn__geral" to="/">
+      <Link className="subtitulo btn__geral" to="/espanha">
         Conheça mais sobre a Espanha!
       </Link>
     </main>
