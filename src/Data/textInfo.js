@@ -47,80 +47,98 @@ export const info = {
       linkName: "Voltar",
     },
   ],
-  strasbourg: [
+  strasbourg_detalhes: [
     {
       sectionTitle: "Detalhes Gerais",
       sectionText: [
         "Localizada no leste da França, Estrasburgo fica na região administrativa da Alsácia. Além disso, está exatamente na fronteira entre França e Alemanha, a ponto de ter pertencido ao país germânico em alguns momentos da história. ",
         "A cidade de Estrasburgo e sua região têm diversas atrações e pontos turísticos diferentes para aproveitar. Existem opções para todos os gostos, recheadas de cultura e história. Há ainda todas as atrações natalinas e as delícias da culinária francesa, além de uma interessante influência da cultura alemã, presente na história da cidade e pela proximidade com o país germânico.",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/strasbourg",
+      linkName: "Voltar",
     },
+  ],
+  strasbourg_cultura: [
     {
       sectionTitle: "Cultura",
       sectionText: [
-        "Estrasburgo é uma linda cidade da França que garante uma viagem inesquecível. Possui uma rica história, arquitetura única e pontos turísticos famosos em todo o mundo, além de belos canais e parques cheios de natureza. ",
-        "Além disso, ela é conhecida como a casa de Noel, um lugar em que se respira Natal em qualquer época do ano. Conheça e se apaixone!",
+        "Sem dúvida, a época do ano em que a cidade fica mais cheia é no inverno, sobretudo nos dias que antecedem o natal. O turista poderá se fartar do melhor da culinária alsaciana que mistura referências alemãs e francesas.",
+        "Agora, se você pensa que vai ficar sem ter o que fazer em Estrasburgo no frio do inverno, nem se preocupe. O Mercado de Natal acontece em diversos pontos da cidade, em centenas de chalés e é, provavelmente, o mais antigo da Europa.",
+        "Funciona do final de novembro até 31 de dezembro, o turista verá muitos enfeites de natal expostos e também presentes, assim como guloseimas sazonais, típicas dessa época. O Mercado de Natal de Estrasburgo acontece desde 1570! Incrível, você não acha?",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/strasbourg",
+      linkName: "Voltar",
     },
+  ],
+  strasbourg_comidas: [
     {
       sectionTitle: "Comidas Típicas",
       sectionText: [
-        "Os restaurantes em Estrasburgo reúnem o melhor da culinária da Alsácia. Assim como toda cidade francesa, há muito vinho, queijo e pão, mas não se trata apenas disso: alguns dos melhores restaurantes da região estão na cidade, como o La Clocle à Fromage.",
-        "Se você pretende visitar Estrasburgo, prepare-se para uma gastronomia bem diversificada, pois ela possui influências da culinária da França e da Alemanha. Isso acontece porque a cidade já pertenceu ao país vizinhos antigamente; hoje, o reflexo disso não está apenas nas ruas, mas também nos restaurantes.",
+        "Presença quase que obrigatória na mesa de alemães e poloneses, o Chucrute também é famoso na região da Alsácia. É claro que cada lugar muda um pouco o seu modo de preparar o prato, mas a base sempre é repolho fermentado.",
+        "A Tarte Flambée é uma espécie de torta com a massa bem fina e que normalmente leva bacon e queijo. Esse prato é bem típico de Estrasburgo e também um dos mais baratos para se comer na cidade.",
+        "Por fim, a Raclette é semelhante a um fondue, pois você coloca o queijo derretido diretamente no prato raspando ele; normalmente é servido com batatas e o que mais desejar acrescentar.",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/strasbourg",
+      linkName: "Voltar",
     },
+  ],
+  strasbourg_turismo: [
     {
       sectionTitle: "Pontos Turísticos",
       sectionText: [
-        "Visitar os pontos turísticos de Estrasburgo é um verdadeiro mergulho na história da Alsácia, região localizada no nordeste da França que faz fronteira com a Alemanha.",
-        "Justamente graças a essa proximidade com o país vizinho, você perceberá algumas particularidades; uma delas é a mistura de culturas nessa cidade, que já foi alemã em outras décadas.",
+        "A Catedral de Notre-Dame de Estrasburgo é considerada a catedral gótica mais antiga do mundo. Além disso, é uma das poucas que possui um relógio astronômico; diariamente, às 12h30, ele apresenta um pequeno “show” ao público, a “La Découverte de l’Horloge astronomique de la cathédrale”. Vale a pena se organizar para ver o evento.",
+        "A Place Kleber se destaca entre os pontos turísticos de Estrasburgo, principalmente aos finais de semana, quando há ótimas feirinhas locais. Ali acontecem a maioria dos eventos culturais da cidade e também onde é montada a bela árvore de Natal, que a cada ano ganha novos detalhes.",
+        "A Petite-France guarda também alguns encantos como esse museu, próximo das Pontes Cobertas. Ele se destaca tanto pela arquitetura colorida e inovadora na parte externa quanto pelo acervo de obras. Por isso, não podia ficar de fora da lista de pontos turísticos de Estrasburgo. No Museu de Arte Moderna e Contemporânea de Estrasburgo você encontrará trabalhos de artistas como Monet, Picasso e Brauner, que são muito venerados em todo mundo, mas principalmente na França. A estrutura conta ainda com uma sala dedicada às artes gráficas.",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/strasbourg",
+      linkName: "Voltar",
     },
   ],
-  bordeaux: [
+  bordeaux_detalhes: [
     {
       sectionTitle: "Detalhes Gerais",
       sectionText: [
-        "Bordeaux, centro de uma famosa região vinícola, é uma cidade portuária às margens do rio Garonne, no sudoeste da França.",
-        "Ela é conhecida pela Catedral Gótica de Santo André, por mansões dos séculos XVIII e XIX e por importantes museus de arte, como o Musée des Beaux-Arts de Bordeaux.",
+        "Bordeaux, centro de uma famosa região vinícola, é uma cidade portuária às margens do rio Garonne, no sudoeste da França. Ela é conhecida pela Catedral Gótica de Santo André, por mansões dos séculos XVIII e XIX e por importantes museus de arte, como o Musée des Beaux-Arts de Bordeaux.",
+        "Jardins públicos ornamentam o traçado curvo dos cais do rio. A grande Place de la Bourse, com a fonte das Três Graças no centro, contorna o Miroir d'Eau (espelho d'água).",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/bordeaux",
+      linkName: "Voltar",
     },
+  ],
+  bordeaux_cultura: [
     {
       sectionTitle: "Cultura",
       sectionText: [
-        "Selecionado pela Unesco por seu excepcional patrimônio urbano, Bordeaux possui mais de 350 edifícios classificados como monumentos históricos.",
-        "A arte e a cultura encontram-se em todos os cantos das ruas e abrigam-se em alguns belos e importantes museus, incluindo o Muséum de Bordeaux, que reabre suas portas. Siga o guia!",
+        "As ruas mais famosas de Bordeaux se direcional para o Grand Théâtre, construído em 1780 e considerado um dos mais belos do mundo. Além de sua acústica excepcional, a sua fachada com colunas coríntias, a grande escadaria (que inspirou o arquiteto Charles Garnier no projeto da Ópera de Paris), e o incrível lustre em cristais boêmios, surpreendem e impressionam. A visita é aberta ao público, e é ainda mais fascinante se tivermos a sorte de ver uma ópera em ensaio.",
+        "Concreto cru, aço, água, escuridão, história ... e arte! No distrito de Bassins à Flots, a Base submarina é um gigantesco bunker (uma estrutura fortificada subterrânea criada durante a guerra). A Base foi construída pelos alemães para abrigar submarinos durante a Segunda Guerra Mundial. Organizado em onze setores, interligados por uma rua em seu interior, este lugar atemporal abriga exposições temporárias, concertos e shows em um ambiente literalmente “underground”!",
+        "Nós acreditamos nisso! Com um mobiliário e decoração da época, o Museu de Artes Decorativas e Design, localizado no Hotel Lalande, transporta-se no ambiente de uma casa aristocrática de Bordeaux do século XVIII. Mas o design contemporâneo também é notável. Uma mistura de gêneros impressionantes e excitantes, está localizado em um patrimônio classificado como monumento histórico.",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/bordeaux",
+      linkName: "Voltar",
     },
+  ],
+  bordeaux_comidas: [
     {
       sectionTitle: "Comidas Típicas",
       sectionText: [
-        "É difícil imaginar um lugar com mais dotes culinários que a França, um dos poucos países do mundo que teve sua gastronomia reconhecida como um Patrimônio Cultural da UNESCO. Mas ao contrário do que muitos pensam, o núcleo gastronômico do país não é Paris, a cidade das luzes.",
-        "Uma pesquisa extensa realizada pela revista de culinária Atabula revelou que Bordeaux, que no ano passado foi eleita a melhor cidade do mundo para turistas pela Lonely Planet, é também a melhor culinária da França de acordo com os próprios franceses.",
+        "Ravioli de cogumelos com foie gras em escalope e caldo de champignon com creme. O Le Quatrième Mur fica logo ao lado da Opéra National de Bourdeaux-Grand Théâtre, no centro histórico da cidade, e é lá que encontramos um verdadeiro maestro da gastronomia, o chef francês Philippe Etchebest.",
+        "Para os carnívoros de plantão, o La Brasserie Bordelaise, uma steakhouse pertinho do rio Garonne que atravessa a cidade, é o lugar perfeito para você. Cada corte é selecionado individualmente pelos irmãos Metzger, açougueiros meticulosos e bastante famosos na cidade.",
+        "Atmosfera especial, cozinha criativa e toda a autenticidade que só um restaurante do ilustre Gordon Ramsay tem: esse é o Le Pressoir d’Argent, o restaurante do refinadíssimo InterContinental Bordeaux e que já conquistou duas estrelas Michelin em seus brevíssimos 4 anos de história.",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/bordeaux",
+      linkName: "Voltar",
     },
+  ],
+  bordeaux_turismo: [
     {
       sectionTitle: "Pontos Turísticos",
       sectionText: [
-        "O ponto turístico mais famoso de Bordeaux é a belíssima Place de la Bourse, que ficou ainda mais bonita depois da construção de um espelho d’água que reflete os prédios que a emolduram.",
-        "lém dos museus e monumentos históricos, Bordeaux é famosa pelos restaurantes renomados, sendo uma ótima opção para quem aprecia a gastronomia francesa.",
+        "A Place de La Bourse é o cartão postal de Bordéus e sem dúvida um dos lugares mais bonitos e icônicos da cidade. Construída no século 18 pelo arquiteto Ange-Jacques Gabriel juntamente com o seu pai, a praça é um dos locais mais fotografados e visitados da capital da Aquitânia.",
+        "Apesar da Place de la Bourse ser linda por si só, ela ganhou ainda mais destaque na paisagem da cidade com a construção de um espelho d’água, que reflete a sua bela arquitetura. Projetado pelo paisagista Michel Corajoud, esse espelho d’água inaugurado em 2006 é considerado o maior do mundo (3 450 m²). Além do aspecto estético, esse espelho é legal porque nos dias quentes tanto as crianças quanto os adultos se divertem brincando na água. E tem mais, a fonte tem três efeitos diferentes: reflexo, névoa  e piscina (2cm de água). A obra teve tanto sucesso que já entrou para a lista de Patrimônio Mundial da Unesco dentro da categoria de criações contemporâneas.",
+        "Logo ao lado do espelho d’água há uma praça com vários jardins floridos às margens no Rio Garonne. Localizada em uma região conhecida como quais (docas), é um ótimo local para relaxar e o observar as pessoas circulando no calção e se divertindo no  espelho d’água.",
       ],
-      linkPath: "/",
-      linkName: "Conhecer Mais",
+      linkPath: "/franca/bordeaux",
+      linkName: "Voltar",
     },
   ],
 };
