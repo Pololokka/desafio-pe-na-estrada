@@ -60,7 +60,25 @@ const router = createBrowserRouter([
         element: (
           <CityPage
             pageName="Pé Na Estrada - França"
-            sectionTitle="Sobre Paris"
+            sectionTitle="Saiba Mais"
+          />
+        ),
+      },
+      {
+        path: "/eua/:id",
+        element: (
+          <CityPage
+            pageName="Pé Na Estrada - Estados-Unidos"
+            sectionTitle="Saiba Mais"
+          />
+        ),
+      },
+      {
+        path: "/espanha/:id",
+        element: (
+          <CityPage
+            pageName="Pé Na Estrada - Espanha"
+            sectionTitle="Saiba Mais"
           />
         ),
       },

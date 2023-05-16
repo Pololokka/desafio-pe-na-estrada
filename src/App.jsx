@@ -14,11 +14,11 @@ const navLinks = [
   },
   {
     name: "Estados Unidos",
-    path: "/",
+    path: "/eua",
   },
   {
     name: "Espanha",
-    path: "/",
+    path: "/espanha",
   },
 ];
 
