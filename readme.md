@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![technology - React](https://img.shields.io/badge/React-orange) ![technology - JS](https://img.shields.io/badge/JavaScript-yellow)
 
-# Link Tree
+# Pé na Estrada
 
-link tree
+Uma página de turismo onde o usuário pode ver várias informações sobre cidades de países diferentes.
 
 ## Tecnologias
 
@@ -10,12 +10,29 @@ link tree
 - CSS
 - JavaScript
 - React
+- react-router-dom
 
 ## Escopo do projeto
 
+### Nav
+
+Não se trata de uma página, mas sim de uma barra de navegação que sempre acompanha a trajetória do usuário. Nesta barra é possível acessar um país específico, ou voltar para a home.
+
 ### Home
 
-Página onde o usuário pode adicionar seus links
+Página onde o usuário é apresentado ao site, e pode visualizar informações gerais sobre um país. Embaixo das informações de cada país, há um botão para o usuário ir até a página daquele país.
+
+### País
+
+Nesta página o usuário é introduzido a 3 cidades diferentes do país escolhido, e também há um botão para acessar informações mais específicas daquela cidade.
+
+### Cidade
+
+Nesta página o usuário recebe informações gerais sobre 4 tópicos. As informações são relacionadas a cidade escolhida na página País, e cada sessão apresenta um botão, para que o usuário tenha informações mais detalhadas.
+
+### Detalhes
+
+Esta página dá informações mais específicas sobre o tópico escolhido na página de Cidade. Há também um botão para que o usuário volte a página de Cidade.
 
 ## Sobre
 
