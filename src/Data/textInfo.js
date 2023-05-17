@@ -287,8 +287,9 @@ export const info = {
     {
       sectionTitle: "Detalhes Gerais",
       sectionText: [
-        "Localizada no leste da França, Estrasburgo fica na região administrativa da Alsácia. Além disso, está exatamente na fronteira entre França e Alemanha, a ponto de ter pertencido ao país germânico em alguns momentos da história. ",
-        "A cidade de Estrasburgo e sua região têm diversas atrações e pontos turísticos diferentes para aproveitar. Existem opções para todos os gostos, recheadas de cultura e história. Há ainda todas as atrações natalinas e as delícias da culinária francesa, além de uma interessante influência da cultura alemã, presente na história da cidade e pela proximidade com o país germânico.",
+        "Madrid não passou a ser importante até que Felipe II transferiu a corte para a cidade em 1561. Com o estabelecimento da corte, se tornou clara a necessidade de reformas urbanísticas e logo surgiram subúrbios fora da área medieval que mudaram o rumo da história de Madrid.",
+        "Ao mesmo tempo que aumentava a superfície urbana, crescia o número de habitantes. A população passou de 4.060 em 1530 a 37.500 em 1594. Em abril de 1637, havia na corte 1.300 pobres “legítimos e impedidos” e 3.300 que pediam esmola, a maior parte estrangeiros, antigos peregrinos de Santiago e ex-soldados, que formavam a base da pirâmide social. Aqueles que estavam descontentes, por motivos de falta de pão ou alta nos preços, eram explorados pelos partidos para alentar motins, como o Motim dos Gatos de Madrid.",
+        "A instalação da corte e dos organismos centrais político-administrativos em Madrid fez com que a cidade se tornasse o foco principal da vida artística e literária espanhola, o que atraiu muitos artistas espanhóis e estrangeiros. As construções mais destacadas dessa época foram, além de algumas igrejas, a Plaza Mayor, a prisão da corte e a prefeitura.",
       ],
       linkPath: "/espanha/madrid",
       linkName: "Voltar",
@@ -298,9 +299,9 @@ export const info = {
     {
       sectionTitle: "Cultura",
       sectionText: [
-        "Sem dúvida, a época do ano em que a cidade fica mais cheia é no inverno, sobretudo nos dias que antecedem o natal. O turista poderá se fartar do melhor da culinária alsaciana que mistura referências alemãs e francesas.",
-        "Agora, se você pensa que vai ficar sem ter o que fazer em Estrasburgo no frio do inverno, nem se preocupe. O Mercado de Natal acontece em diversos pontos da cidade, em centenas de chalés e é, provavelmente, o mais antigo da Europa.",
-        "Funciona do final de novembro até 31 de dezembro, o turista verá muitos enfeites de natal expostos e também presentes, assim como guloseimas sazonais, típicas dessa época. O Mercado de Natal de Estrasburgo acontece desde 1570! Incrível, você não acha?",
+        "O Círculo de Bellas Artes (CBA), fundado em 1880 por um pequeno grupo de artistas, é um dos centros culturais privados mais importantes a nível europeu. Este centro multidisciplinar oferece uma programação regular, com atividades que vão das artes plásticas à literatura, passando pela ciência, a filosofia, o cinema e as artes cénicas, com destaque para as correntes artísticas mais inovadoras. O CBA é uma entidade cultural privada, sem ânimo de lucro, declarada 'Centro de Proteção das Belas Artes e de Utilidade Pública'.",
+        "O CaixaForum Madrid é um centro sociocultural próprio do século XXI que abre as suas portas à arte antiga, moderna e contemporânea, aos festivais de música e poesia, à arte multimédia, aos debates sobre a atualidade, às jornadas sociais e aos workshops familiares e educativos.",
+        "O espaço cultural de Conde Duque oferece mais de 58 777 m2 de infraestruturas dedicadas à cultura. Além de várias salas de exposições, conta com um auditório e um teatro onde se realizam regularmente diferentes espetáculos de artes cénicas. ",
       ],
       linkPath: "/espanha/madrid",
       linkName: "Voltar",
@@ -310,9 +311,9 @@ export const info = {
     {
       sectionTitle: "Comidas Típicas",
       sectionText: [
-        "Presença quase que obrigatória na mesa de alemães e poloneses, o Chucrute também é famoso na região da Alsácia. É claro que cada lugar muda um pouco o seu modo de preparar o prato, mas a base sempre é repolho fermentado.",
-        "A Tarte Flambée é uma espécie de torta com a massa bem fina e que normalmente leva bacon e queijo. Esse prato é bem típico de Estrasburgo e também um dos mais baratos para se comer na cidade.",
-        "Por fim, a Raclette é semelhante a um fondue, pois você coloca o queijo derretido diretamente no prato raspando ele; normalmente é servido com batatas e o que mais desejar acrescentar.",
+        "O jamón, ou presunto cru, é certamente o ingrediente mais utilizado na cozinha de toda a Espanha, fazendo parte de todas as refeições. Aperitivo, sanduíches, omeletes, saladas e até pratos mais elaborados são preparados com essa delícia.",
+        "O mais famoso dos pratos típicos de Madrid é o cocido madrileño. Por ser um prato bem pesado, ele vai bem principalmente para os dias frios. Tem como ingredientes principais as carnes (frango, carne bovina e carne de porco – tudo misturado mesmo), macarrão (fideos), batata, grão de bico e outros vegetais.",
+        "O bocadillo de calamares, que nada mais é que um sanduíche de lulas empanadas, é outro prato que faz sucesso entre os madrileños. O sanduíche é bem seco para os padrões brasileiros, mas muito gostoso! Ele é feito de pão e lulas empanadas, nada mais que isso.",
       ],
       linkPath: "/espanha/madrid",
       linkName: "Voltar",
@@ -322,9 +323,9 @@ export const info = {
     {
       sectionTitle: "Pontos Turísticos",
       sectionText: [
-        "A Catedral de Notre-Dame de Estrasburgo é considerada a catedral gótica mais antiga do mundo. Além disso, é uma das poucas que possui um relógio astronômico; diariamente, às 12h30, ele apresenta um pequeno “show” ao público, a “La Découverte de l’Horloge astronomique de la cathédrale”. Vale a pena se organizar para ver o evento.",
-        "A Place Kleber se destaca entre os pontos turísticos de Estrasburgo, principalmente aos finais de semana, quando há ótimas feirinhas locais. Ali acontecem a maioria dos eventos culturais da cidade e também onde é montada a bela árvore de Natal, que a cada ano ganha novos detalhes.",
-        "A Petite-France guarda também alguns encantos como esse museu, próximo das Pontes Cobertas. Ele se destaca tanto pela arquitetura colorida e inovadora na parte externa quanto pelo acervo de obras. Por isso, não podia ficar de fora da lista de pontos turísticos de Estrasburgo. No Museu de Arte Moderna e Contemporânea de Estrasburgo você encontrará trabalhos de artistas como Monet, Picasso e Brauner, que são muito venerados em todo mundo, mas principalmente na França. A estrutura conta ainda com uma sala dedicada às artes gráficas.",
+        "O Parque del Retiro é uma das atrações que deve estas na lista do que fazer em Madrid. É um oásis enorme com mais de 15 mil árvores que ajudam a formar um dos pulmões verdes no coração da cidade.",
+        "Durante seu passeio pelo Parque do Retiro em Madrid, um dos lugares para descobrir, é sem dúvida alguma, o Roseiral Cecílio Rodriguez. O roseiral está situado na zona sul do parque, afastado da zona mais popular que rodeia o grande estanque.",
+        "O Parque Madrid Rio acompanha as margens do Rio Manzanares, na zona Sul da cidade, que foi canalizado e estreitado, dando espaço para um parque fantástico, repleto de opções de lazer.",
       ],
       linkPath: "/espanha/madrid",
       linkName: "Voltar",
@@ -334,8 +335,8 @@ export const info = {
     {
       sectionTitle: "Detalhes Gerais",
       sectionText: [
-        "Localizada no leste da França, Estrasburgo fica na região administrativa da Alsácia. Além disso, está exatamente na fronteira entre França e Alemanha, a ponto de ter pertencido ao país germânico em alguns momentos da história. ",
-        "A cidade de Estrasburgo e sua região têm diversas atrações e pontos turísticos diferentes para aproveitar. Existem opções para todos os gostos, recheadas de cultura e história. Há ainda todas as atrações natalinas e as delícias da culinária francesa, além de uma interessante influência da cultura alemã, presente na história da cidade e pela proximidade com o país germânico.",
+        "Barcelona é um dos principais centros turísticos, econômicos, comerciais e culturais do mundo, sendo que sua influência no comércio, educação, entretenimento, mídia, moda, ciência e artes contribuem para o seu estatuto como uma das principais cidades mundiais. É um importante centro cultural e econômico na Península Ibérica, 24º no mundo (antes de Zurique e depois de Frankfurt) e um centro financeiro. Em 2008, tinha o quarto maior PIB urbano na União Europeia e o 35º no mundo, com o PIB no valor de 177 bilhões de dólares.",
+        "Em 2009, a cidade foi classificada como a quarta melhor cidade da Europa para os negócios. Desde 2011, Barcelona tem sido considerada uma cidade inteligente líder no continente europeu. A capital catalã é um centro de transporte, sendo que seu porto é um dos mais movimentados da Europa; um aeroporto internacional, o Aeroporto de Barcelona-El Prat, que atende mais de 40 milhões de passageiros por ano; uma rede de autoestradas e uma linha ferroviária de alta velocidade com ligação para a França e o resto da Europa.",
       ],
       linkPath: "/espanha/barcelona",
       linkName: "Voltar",
@@ -345,9 +346,9 @@ export const info = {
     {
       sectionTitle: "Cultura",
       sectionText: [
-        "Sem dúvida, a época do ano em que a cidade fica mais cheia é no inverno, sobretudo nos dias que antecedem o natal. O turista poderá se fartar do melhor da culinária alsaciana que mistura referências alemãs e francesas.",
-        "Agora, se você pensa que vai ficar sem ter o que fazer em Estrasburgo no frio do inverno, nem se preocupe. O Mercado de Natal acontece em diversos pontos da cidade, em centenas de chalés e é, provavelmente, o mais antigo da Europa.",
-        "Funciona do final de novembro até 31 de dezembro, o turista verá muitos enfeites de natal expostos e também presentes, assim como guloseimas sazonais, típicas dessa época. O Mercado de Natal de Estrasburgo acontece desde 1570! Incrível, você não acha?",
+        "O arquiteto catalão espalhou por Barcelona outras grandes obras, como a Casa Vicens, Parc Güell, Casa Batlló e Casa Milà (também conhecida como La Pedrera). Todas elas cheias de detalhes, curvas e preciosismos. Inspiradas em elementos da natureza, se tornaram pontos turísticos movimentadíssimos. Apesar de ser considerado um artista modernista, o conjunto da obra transcende o próprio movimento, já que um estilo próprio foi criado. Gaudí é Gaudí. Só vendo de perto para entender.",
+        "Além dele, outros grandes artistas deixaram rastros na cidade de Barcelona. Nascido em Málaga, Pablo Picasso morou na cidade, onde frequentou a Escola de Belas Artes. Em homenagem ao cidadão ilustre, o Museu Pablo Picasso, localizado no núcleo histórico, expõe mais de 3.600 obras de arte, correspondentes à época de formação e juventude do pintor.",
+        "Já Joan Miró é barcelonês e hoje uma coleção sua, de mais de 14 mil obras, está exposta na Fundació Joan Miró – primeiro museu de arte contemporânea da cidade de Barcelona. Ali, o visitante pode ver pinturas, esculturas, cerâmicas, desenhos, além de outras mostras itinerantes. O museu fica no Parc de Montjuïc, o “pulmão verde” da cidade, localizado numa região montanhosa agradabilíssima. Há dois acessos ao parque: pela Plaça Espanya e pelo extremo Oeste, utilizando o funicular ou fazendo uma viagem aérea no Aeri del Port (teleférico).",
       ],
       linkPath: "/espanha/barcelona",
       linkName: "Voltar",
@@ -357,9 +358,9 @@ export const info = {
     {
       sectionTitle: "Comidas Típicas",
       sectionText: [
-        "Presença quase que obrigatória na mesa de alemães e poloneses, o Chucrute também é famoso na região da Alsácia. É claro que cada lugar muda um pouco o seu modo de preparar o prato, mas a base sempre é repolho fermentado.",
-        "A Tarte Flambée é uma espécie de torta com a massa bem fina e que normalmente leva bacon e queijo. Esse prato é bem típico de Estrasburgo e também um dos mais baratos para se comer na cidade.",
-        "Por fim, a Raclette é semelhante a um fondue, pois você coloca o queijo derretido diretamente no prato raspando ele; normalmente é servido com batatas e o que mais desejar acrescentar.",
+        "Você não vai precisar ir atrás do famoso “pão com tomate”, é muito provavél que ele apareça repetidas vezes na mesa dos restaurantes onde você for almoçar e jantar. O pa amb tomàquet nada mais é que uma fatia de pão, tipo pão italiano, tostada, na qual se esfrega um tomate bem vermelho e menor que o usado nas saladas. Também pode receber algum tipo de embutido como complemento.",
+        "A escalivada é uma delícia muito saudável e tipicamente catalã. É elaborada com pimentão vermelho, beringela e cebola, previamente assados na brasa (de preferência) e temperados com azeite e alho. Pode ser servida em um bom pedaço de pão tostado, untado com azeite de oliva, ou como acompanhamento de um prato principal de carnes ou peixes. Normalmente é servida como uma espécie de aperitivo antes da comida.",
+        "As cocas são um producto muito típico da culinária catalã. São um tipo de torta de massa bem fina, quase como se fosse uma massa de pizza. A coca de recapte é uma das nossas prediletas: sobre a massa, ainda crua, são colocados molho de tomate, cebola, beringela, pimentão vermelho e verde assados no forno, além de algum tipo peixe salgado (arenques ou anchovas). Procure pela coca de recapte em uma boa padaria.",
       ],
       linkPath: "/espanha/barcelona",
       linkName: "Voltar",
@@ -369,9 +370,9 @@ export const info = {
     {
       sectionTitle: "Pontos Turísticos",
       sectionText: [
-        "A Catedral de Notre-Dame de Estrasburgo é considerada a catedral gótica mais antiga do mundo. Além disso, é uma das poucas que possui um relógio astronômico; diariamente, às 12h30, ele apresenta um pequeno “show” ao público, a “La Découverte de l’Horloge astronomique de la cathédrale”. Vale a pena se organizar para ver o evento.",
-        "A Place Kleber se destaca entre os pontos turísticos de Estrasburgo, principalmente aos finais de semana, quando há ótimas feirinhas locais. Ali acontecem a maioria dos eventos culturais da cidade e também onde é montada a bela árvore de Natal, que a cada ano ganha novos detalhes.",
-        "A Petite-France guarda também alguns encantos como esse museu, próximo das Pontes Cobertas. Ele se destaca tanto pela arquitetura colorida e inovadora na parte externa quanto pelo acervo de obras. Por isso, não podia ficar de fora da lista de pontos turísticos de Estrasburgo. No Museu de Arte Moderna e Contemporânea de Estrasburgo você encontrará trabalhos de artistas como Monet, Picasso e Brauner, que são muito venerados em todo mundo, mas principalmente na França. A estrutura conta ainda com uma sala dedicada às artes gráficas.",
+        "O Templo Expiatório da Sagrada Família (ou, simplesmente, Sagrada Família) é um colosso da arquitetura contemporânea de difícil catalogação. Considerado um dos expoentes máximos da arquitetura modernista catalã, a Sagrada Família é tida como a obra-prima de Antoni Gaudí. Não por acaso, é a atração mais visitada de Barcelona. E isto apesar de ser uma obra inacabada. Deseja-se agora que possa estar concluída por ocasião do centenário da morte de Gaudí, em 2026.",
+        "Porventura o fracasso mais feliz de Antoni Gaudí, o Parque Güell era para ter sido uma nova urbanização de Barcelona, em que as casas e os espaços públicos seriam uma homenagem à Natureza. O projeto acabou por não resultar comercialmente, mas deixou à cidade um parque invulgarmente original e criativo.",
+        "O Palácio da Música Catalã é uma das salas de concertos mais carismáticas de Espanha; e seguramente um dos monumentos mais representativos do modernismo catalão. É outra das principais atrações de Barcelona (é possível visitar em horários sem espetáculos).",
       ],
       linkPath: "/espanha/barcelona",
       linkName: "Voltar",
@@ -381,8 +382,8 @@ export const info = {
     {
       sectionTitle: "Detalhes Gerais",
       sectionText: [
-        "Localizada no leste da França, Estrasburgo fica na região administrativa da Alsácia. Além disso, está exatamente na fronteira entre França e Alemanha, a ponto de ter pertencido ao país germânico em alguns momentos da história. ",
-        "A cidade de Estrasburgo e sua região têm diversas atrações e pontos turísticos diferentes para aproveitar. Existem opções para todos os gostos, recheadas de cultura e história. Há ainda todas as atrações natalinas e as delícias da culinária francesa, além de uma interessante influência da cultura alemã, presente na história da cidade e pela proximidade com o país germânico.",
+        "Em 2007 a Universidade de Granada era a quarta maior universidade de Espanha em número de alunos e era um dos cinco destinos mais populares dos universitários do programa europeu Erasmus.",
+        "A cidade é servida pelo Aeroporto Federico García Lorca, situado 15 km a oeste do núcleo urbano. Foi inaugurado em 1973 e remodelado na década de 1990. Em 2007 serviu 1 467 590 passageiros, mas desde então o tráfego tem vindo a diminuir e em 2011 teve 872 752 passageiros.",
       ],
       linkPath: "/espanha/granada",
       linkName: "Voltar",
@@ -392,9 +393,9 @@ export const info = {
     {
       sectionTitle: "Cultura",
       sectionText: [
-        "Sem dúvida, a época do ano em que a cidade fica mais cheia é no inverno, sobretudo nos dias que antecedem o natal. O turista poderá se fartar do melhor da culinária alsaciana que mistura referências alemãs e francesas.",
-        "Agora, se você pensa que vai ficar sem ter o que fazer em Estrasburgo no frio do inverno, nem se preocupe. O Mercado de Natal acontece em diversos pontos da cidade, em centenas de chalés e é, provavelmente, o mais antigo da Europa.",
-        "Funciona do final de novembro até 31 de dezembro, o turista verá muitos enfeites de natal expostos e também presentes, assim como guloseimas sazonais, típicas dessa época. O Mercado de Natal de Estrasburgo acontece desde 1570! Incrível, você não acha?",
+        "O Albaicín é um dos antigos bairros muçulmanos de Granada. Ao visitar Alhambra é possível perceber que ela se encontra num monte e Albaicín na face do monte.",
+        "O bairro foi considerado pela Unesco, em 1984, patrimônio cultural da humanidade por causa da presente cultura árabe e cristã na arquitetura, além do exemplo da civilização muçulmana na península ibérica. ",
+        "Ao visitar Albaicín, você se encantara pelas casinhas brancas, caminhos arborizados pelo verde, e a extraordinária arquitetura! É realmente um bairro encantador. ",
       ],
       linkPath: "/espanha/granada",
       linkName: "Voltar",
@@ -404,9 +405,9 @@ export const info = {
     {
       sectionTitle: "Comidas Típicas",
       sectionText: [
-        "Presença quase que obrigatória na mesa de alemães e poloneses, o Chucrute também é famoso na região da Alsácia. É claro que cada lugar muda um pouco o seu modo de preparar o prato, mas a base sempre é repolho fermentado.",
-        "A Tarte Flambée é uma espécie de torta com a massa bem fina e que normalmente leva bacon e queijo. Esse prato é bem típico de Estrasburgo e também um dos mais baratos para se comer na cidade.",
-        "Por fim, a Raclette é semelhante a um fondue, pois você coloca o queijo derretido diretamente no prato raspando ele; normalmente é servido com batatas e o que mais desejar acrescentar.",
+        "habas con jamón. É um dois pratos mais típicos de Granada, elaborado com um ingrediente local que está disponível nos mercados entre março e outubro. As habas são um tipo de feijão verde, carnudo, que é preparado na panela junto com pedaços de presunto curado. Podem ser servidas com um ovo frito por cima. Uma autêntica iguaria!",
+        "berenjenas com miel. Beringelas fatiadas, empanadas e servidas com mel de cana.",
+        "piononos. Os piononos são o doce mais típico de Granada. Originários de Santa Fe, uma cidade vizinha, o nome homenageia o papa Pío IX. Consiste em uma fina lâmina de pão-de-ló enrolada como um minirrocambole e banhada com uma calda.",
       ],
       linkPath: "/espanha/granada",
       linkName: "Voltar",
@@ -416,9 +417,9 @@ export const info = {
     {
       sectionTitle: "Pontos Turísticos",
       sectionText: [
-        "A Catedral de Notre-Dame de Estrasburgo é considerada a catedral gótica mais antiga do mundo. Além disso, é uma das poucas que possui um relógio astronômico; diariamente, às 12h30, ele apresenta um pequeno “show” ao público, a “La Découverte de l’Horloge astronomique de la cathédrale”. Vale a pena se organizar para ver o evento.",
-        "A Place Kleber se destaca entre os pontos turísticos de Estrasburgo, principalmente aos finais de semana, quando há ótimas feirinhas locais. Ali acontecem a maioria dos eventos culturais da cidade e também onde é montada a bela árvore de Natal, que a cada ano ganha novos detalhes.",
-        "A Petite-France guarda também alguns encantos como esse museu, próximo das Pontes Cobertas. Ele se destaca tanto pela arquitetura colorida e inovadora na parte externa quanto pelo acervo de obras. Por isso, não podia ficar de fora da lista de pontos turísticos de Estrasburgo. No Museu de Arte Moderna e Contemporânea de Estrasburgo você encontrará trabalhos de artistas como Monet, Picasso e Brauner, que são muito venerados em todo mundo, mas principalmente na França. A estrutura conta ainda com uma sala dedicada às artes gráficas.",
+        "Alhambra é um complexo palaciano de tom avermelhado que se impõe na Colina La Sabika, cercado por montanhas e floresta e ladeado pelo Rio Darro, o complexo é tão grande e bem protegido que é considerado uma cidadela.",
+        "A enorme Catedral de Granada, Espanha, tem 115 metros de comprimento e 65 de largura. Sua fachada conta com três grandes arcos, sendo o central o maior deles, com algumas imagens religiosas feitas em alto relevo.",
+        "Uma verdadeira obra de arte da arquitetura barroca andaluz, a Basílica de São João de Deus teve sua construção realizada entre 1737 e 1759, em homenagem a São João de Deus, padroeiro de Granada, Espanha. O exterior da basílica conta diversas decorações em relevo e é muito bonita, mas o grande destaque mesmo fica em seu interior. Possui detalhes em madeira e na cor dourada de beleza incomparável, com destaque para o retábulo mor da igreja.",
       ],
       linkPath: "/espanha/granada",
       linkName: "Voltar",
